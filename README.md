@@ -1,7 +1,7 @@
-### Hi there 👋
+### Bien le bonjour 👋
 
 
-**Cantin-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Je** suis un devollopeur un peu ✨ _special_ ✨ !
 
 Here are some ideas to get you started:
 
