@@ -5,7 +5,7 @@
 ### Bien le bonjour 👋
 
 
-**Je** suis un développeur un peu ✨ _special_ ✨ !
+**Je** suis un développeur, qui espère être dans le futur un _as de la cyber_ !
 
 Tout d'abord pour commencer :
 
